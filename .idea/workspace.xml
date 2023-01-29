@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f3b25cc-90cf-4a5a-9f56-a11e0f035728" name="Changes" comment="Scala">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Values_Variables_Types.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Scala Programming Language-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Scala Programming Language-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8f3b25cc-90cf-4a5a-9f56-a11e0f035728" name="Changes" comment="Scala Basics">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Values_Variables_Types.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Values_Variables_Types.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674989744111</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Scala Basics">
+      <created>1674991885196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674991885196</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,7 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scala" />
+    <MESSAGE value="Scala Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scala Basics" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

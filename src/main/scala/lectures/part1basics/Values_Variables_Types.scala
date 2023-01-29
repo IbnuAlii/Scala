@@ -8,7 +8,7 @@ object Values_Variables_Types extends App{
  println(y)
 
  //VALS ARE IMMUTABLE
- x=2
+// x=2
 
  // COMPILER can infer types
  //-> we don't need to specify types
