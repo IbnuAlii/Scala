@@ -1,6 +1,6 @@
-package lectures.part1basics
+package exercises
 
-object Exercises extends App{
+object Exercises_01 extends App{
   /*
   1. A greeting function (name,age) => "Hi, my name is $name and I am $age years old."
   2. Factorial function 1 * 2 * 3 * 4 ...............* n
