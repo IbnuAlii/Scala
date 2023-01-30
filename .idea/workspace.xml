@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f3b25cc-90cf-4a5a-9f56-a11e0f035728" name="Changes" comment="Expressions">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Exercises.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Functions.scala" afterDir="false" />
+    <list default="true" id="8f3b25cc-90cf-4a5a-9f56-a11e0f035728" name="Changes" comment="exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/lectures/part1basics/Recursion.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,21 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "scala_project_settings_configurable.last_selected_tab_index": "6",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;scala_project_settings_configurable.last_selected_tab_index&quot;: &quot;6&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Exercises">
+}</component>
+  <component name="RunManager" selected="Application.Recursion">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Exercises" />
       <module name="Scala Programming Language" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,7 +63,7 @@
       <module name="Scala Programming Language" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,7 +76,7 @@
       <module name="Scala Programming Language" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Playground" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="playground.Playground" />
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Recursion" />
       <module name="Scala Programming Language" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,7 +102,7 @@
       <module name="Scala Programming Language" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Exercises" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.Values_Variables_Types" />
-        <item itemvalue="Application.Playground" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675009446711</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="functions">
+      <created>1675017671861</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675017671861</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exercise">
+      <created>1675017713410</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675017713410</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +213,9 @@
     <MESSAGE value="Scala" />
     <MESSAGE value="Scala Basics" />
     <MESSAGE value="Expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Expressions" />
+    <MESSAGE value="functions" />
+    <MESSAGE value="exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
